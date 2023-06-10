@@ -56,7 +56,7 @@ body {
   
   #hero {
     color: #fff;
-    background-image: url('img/hero_background.jpg');
+    background-image: url('hero_background.jpg');
     background-size: cover;
     position: relative; /* Nueva propiedad */
     padding: 100px 20px;
